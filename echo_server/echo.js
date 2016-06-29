@@ -18,3 +18,5 @@ app.get('/headers/:header_name', function(request, response) {
 });
 
 app.listen(8080);
+
+exports.echoServer = app;

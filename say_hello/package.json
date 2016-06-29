@@ -1,0 +1,14 @@
+{
+  "name": "say_hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "echo_server": "file:///Users/lynn/Dropbox/thinkful/course/week3/echo_library/echo_server"
+  }
+}
